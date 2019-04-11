@@ -8,7 +8,7 @@ description: День 2 становления программистом
 
 | Project\( 3h\) | JavaRush\(2h\) | English\( 30min\) | Blog\(1h\) | Theme\(2h\) |
 | :--- | :--- | :--- | :--- | :--- |
-| Nor done | Not done | Not done | Not done | Not done |
+| Nor done | Not done | Not done | **Done** | Not done |
 
 А вот пока некоторые мудрости про программирование которые недавно прочитал.
 
