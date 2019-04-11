@@ -14,6 +14,8 @@
 ## Projects
 
 * [Blog](projects/blog/README.md)
+  * [Milestones](projects/blog/milestones/README.md)
+    * [Step 1](projects/blog/milestones/step-1.md)
   * [Что делать](projects/blog/chto-delat.md)
   * [Хотелки](projects/blog/khotelki.md)
 
