@@ -28,9 +28,8 @@
       * [Java EE Application Model](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-application-model.md)
       * [Java EE Containers](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-containers.md)
       * [Web Services Support](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/web-services-support.md)
-* [HeadFirst](javaee/headfirst.md)
-* [Java EE Application Assembly and Deployment](javaee/java-ee-application-assembly-and-deployment.md)
-* [Java EE APIs](javaee/java-ee-apis.md)
+      * [Java EE Application Assembly and Deployment](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-application-assembly-and-deployment.md)
+      * [Java EE APIs](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-apis.md)
 
 ## Java Core
 

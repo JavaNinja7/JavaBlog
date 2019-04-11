@@ -14,49 +14,49 @@ description: Java EE API
 
 Корпоративные компоненты-это либо сеансовые\(session\) компоненты, либо компоненты, управляемые сообщениями\(message-driven\).
 
-* A session bean represents a transient conversation with a client. When the client finishes executing, the session bean and its data are gone.
-* A message-driven bean combines features of a session bean and a message listener, allowing a business component to receive messages asynchronously. Commonly, these are Java Message Service \(JMS\) messages.
+* Сеансовый компонент представляет собой временное общение с клиентом. Когда код клиента завершает исполнение, сеансовый компонент и его данные исчезают.
+* Управляемый сообщениями компонент объединяет функции сеансового компонента и прослушивателя сообщений, позволяя бизнес-компоненту асинхронно получать сообщения. Обычно это сообщения службы сообщений Java \(JMS\).
 
-The Java EE 8 platform requires Enterprise JavaBeans 3.2 and Interceptors 1.2. The Interceptors specification is part of the EJB specification.
+Платформа Java EE 8 требует Enterprise JavaBeans 3.2 и Interceptors 1.2. Спецификация Interceptors является частью спецификации EJB.
 
 #### Java Servlet Technology <a id="_java_servlet_technology"></a>
 
-Java Servlet technology lets you define HTTP-specific servlet classes. A servlet class extends the capabilities of servers that host applications accessed by way of a request-response programming model. Although servlets can respond to any type of request, they are commonly used to extend the applications hosted by web servers.
+Технология Java сервлетов позволяет определить  HTTP-специфичные сервлет классы. Класс сервлетов расширяет возможности серверов, на которых размещаются приложения, доступные с помощью модели программирования запрос-ответ. Хотя сервлеты могут отвечать на запросы любого типа, они обычно используются для расширения приложений, размещенных на веб-серверах.
 
-In the Java EE 8 platform, new Java Servlet technology features include the following:
+В платформе Java EE 8 новые возможности технологии сервлетов включают следующее:
 
-* Server Push
-* HTTP Trailer
+* [Server Push](https://habr.com/ru/company/badoo/blog/329722/)
+* [HTTP Trailer](http://hantsy.blogspot.com/2017/11/servlet-40-http-trailer.html)
 
-The Java EE 8 platform requires Servlet 4.0
+Java EE 8 платформа требует версиию Servlet 4.0
 
 #### JavaServer Faces Technology <a id="_javaserver_faces_technology"></a>
 
-JavaServer Faces technology is a user interface framework for building web applications. The main components of JavaServer Faces technology are as follows:
+JavaServer Faces Technology - это платформа пользовательского интерфейса для создания веб-приложений. Основными компонентами технологии Javaserver Faces являются следующие:
 
-* A GUI component framework.
-* A flexible model for rendering components in different kinds of HTML or different markup languages and technologies. A `Renderer` object generates the markup to render the component and converts the data stored in a model object to types that can be represented in a view.
-* A standard `RenderKit` for generating HTML 4.01 markup.
+* Фремйворк GUI компонентов.
+* Гибкая модель для рендеринга компонентов в различных видах HTML или различных языках разметки и технологиях. Объект`Renderer`создает разметку для отображения компонента и преобразует данные, хранящиеся в объекте модели, в типы, которые могут быть отображены в представлении.
+* Стандартный `RenderKit` для генерации разметки HTML 4.01. \(Вроде как старая версия, может ошибка здесь\)
 
-The following features support the GUI components:
+Компоненты GUI поддерживают следующие функции:
 
-* Input validation
-* Event handling
-* Data conversion between model objects and components
-* Managed model object creation
-* Page navigation configuration
+* Валидация ввода
+* Обработка событий
+* Преобразование данных между объектами и компонентами модели
+* Создание объекта управляемой модели
+* Настройка навигации по страницам
 * Expression Language \(EL\)
 
-All this functionality is available using standard Java APIs and XML-based configuration files.
+Все эти функции доступны с помощью стандартных API Java и XML-файлов конфигурации.
 
-In the Java EE 8 platform, new features of JavaServer Faces technology include the following:
+В платформе Java EE 8 Новые возможности технологии Javaserver Faces включают следующее:
 
 * Direct support for WebSockets via the new `<f:websocket>` tag
 * Class-level bean validation via the new `<f:validateWholeBean>` tag
 * A CDI-compatible `@ManagedProperty` annotation
 * Enhanced component search expression framework
 
-The Java EE 8 platform requires JavaServer Faces 2.3 and Expression Language 3.0.
+Платформа Java EE 8  требует версии JavaServer Faces 2.3 and Expression Language 3.0.
 
 For an excellent summary of what’s new in JSF 2.3, see [`https://javaserverfaces.github.io/users.html`](https://javaserverfaces.github.io/users.html).
 
