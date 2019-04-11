@@ -38,4 +38,7 @@
 * [Topics](java-core/topics/README.md)
   * [OOP](java-core/topics/oop/README.md)
     * [Basics](java-core/topics/oop/basics.md)
+    * [Encapsulation](java-core/topics/oop/incapsulation/README.md)
+      * [Advantages of Encapsulation](java-core/topics/oop/incapsulation/advantages-of-incapsulation.md)
+    * [Relationships between objects](java-core/topics/oop/relationships-between-objects.md)
 
