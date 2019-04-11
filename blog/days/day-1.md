@@ -8,7 +8,7 @@ description: The journey of a thousand miles begins with the first step
 
 | Project\(3h\) | JavaRush\(2h\) | Theme\(2h\) | Blog\(1h\) | English\(30min\) |
 | :--- | :--- | :--- | :--- | :--- |
-| Not done | Not done | Not done | Done | Not done |
+| **Done** | Not done | Not done | **Done** | **Done** |
 
 Слизано с одного сайта:
 
