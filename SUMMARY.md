@@ -54,4 +54,5 @@
 * [Linux](other/linux/README.md)
   * [Notes](other/linux/notes/README.md)
     * [Services in Ubuntu](other/linux/notes/services-in-ubuntu.md)
+    * [Creating a shortcut for app](other/linux/notes/creating-a-shortcut-for-app.md)
 
