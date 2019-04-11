@@ -46,3 +46,9 @@
   * [Interfaces](java-core/topics/interfaces/README.md)
     * [Difference between interfaces and abstract classes](java-core/topics/interfaces/difference-between-interfaces-and-abstract-classes.md)
 
+## Other
+
+* [Instruments](other/instruments/README.md)
+  * [Tomcat](other/instruments/tomcat/README.md)
+    * [Setup in Ubuntu](other/instruments/tomcat/setup-in-ubuntu.md)
+
