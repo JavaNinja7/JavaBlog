@@ -41,4 +41,6 @@
     * [Encapsulation](java-core/topics/oop/incapsulation/README.md)
       * [Advantages of Encapsulation](java-core/topics/oop/incapsulation/advantages-of-incapsulation.md)
     * [Relationships between objects](java-core/topics/oop/relationships-between-objects.md)
+  * [Interfaces](java-core/topics/interfaces/README.md)
+    * [Difference between interfaces and abstract classes](java-core/topics/interfaces/difference-between-interfaces-and-abstract-classes.md)
 
