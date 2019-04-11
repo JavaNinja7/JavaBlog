@@ -33,4 +33,7 @@
 
 * [Notes](java-core/notes/README.md)
   * [Exceptions meaning](java-core/notes/exceptions-meaning.md)
+* [Topics](java-core/topics/README.md)
+  * [OOP](java-core/topics/oop/README.md)
+    * [Basics](java-core/topics/oop/basics.md)
 
