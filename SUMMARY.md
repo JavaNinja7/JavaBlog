@@ -7,6 +7,7 @@
 
 * [Days](blog/days/README.md)
   * [Day 1](blog/days/day-1.md)
+  * [Day 2](blog/days/day-2.md)
 
 ## Projects
 
