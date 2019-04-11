@@ -51,4 +51,7 @@
 * [Instruments](other/instruments/README.md)
   * [Tomcat](other/instruments/tomcat/README.md)
     * [Setup in Ubuntu](other/instruments/tomcat/setup-in-ubuntu.md)
+* [Linux](other/linux/README.md)
+  * [Notes](other/linux/notes/README.md)
+    * [Services in Ubuntu](other/linux/notes/services-in-ubuntu.md)
 
