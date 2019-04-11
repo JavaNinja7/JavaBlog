@@ -4,6 +4,8 @@ description: Java EE API
 
 # Java EE APIs
 
+![Java EE8 API](../../../../.gitbook/assets/javaee8.png)
+
 В следующих разделах приводится краткая сводка технологий, требуемых платформой Java EE и API, используемыми в приложениях Java EE.
 
 #### Enterprise JavaBeans Technology <a id="_enterprise_javabeans_technology"></a>
