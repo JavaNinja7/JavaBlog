@@ -51,33 +51,33 @@ JavaServer Faces Technology - это платформа пользователь
 
 В платформе Java EE 8 Новые возможности технологии Javaserver Faces включают следующее:
 
-* Direct support for WebSockets via the new `<f:websocket>` tag
-* Class-level bean validation via the new `<f:validateWholeBean>` tag
-* A CDI-compatible `@ManagedProperty` annotation
+* Прямая поддержка  WebSockets через новый тег `<f:websocket>`
+* Class-level bean валидация через новый тег `<f:validateWholeBean>`
+* CDI-совместимый `@ManagedProperty` аннотация
 * Enhanced component search expression framework
 
 Платформа Java EE 8  требует версии JavaServer Faces 2.3 and Expression Language 3.0.
 
-For an excellent summary of what’s new in JSF 2.3, see [`https://javaserverfaces.github.io/users.html`](https://javaserverfaces.github.io/users.html).
+Для отличной сводки того что нового в  JSF 2.3,  смотреть [тут](https://javaserverfaces.github.io/users.html) .
 
 #### JavaServer Pages Technology <a id="_javaserver_pages_technology"></a>
 
-JavaServer Pages \(JSP\) technology lets you put snippets of servlet code directly into a text-based document. A JSP page is a text-based document that contains two types of text:
+JavaServer Pages \(JSP\) технология позволяет вставлять сниппеты кода сервлетов прямо в тексто-ориентрованный документ. JSP страница это текстовый документ, который содержит два вида текста:
 
-* Static data, which can be expressed in any text-based format, such as HTML or XML
-* JSP elements, which determine how the page constructs dynamic content
+* Статические данные, которые могут быть выражены в любом текстовом формате, таком как HTML или XML
+* Элементы JSP, которые определяют, как страница конструирует динамическое содержимое
 
-For information about JSP technology, see _The Java EE 5 Tutorial_ at [`http://docs.oracle.com/javaee/5/tutorial/doc/`](http://docs.oracle.com/javaee/5/tutorial/doc/).
+Для информации о JSP технологии,  смотри [_The Java EE 5 Tutorial_](http://docs.oracle.com/javaee/5/tutorial/doc/) .
 
-The Java EE 8 platform requires JavaServer Pages 2.3 for compatibility with earlier releases but recommends the use of Facelets as the display technology in new applications.
+Платформа Java EE 8 требует Java Server Pages 2.3 для совместимости с более ранними выпусками, но рекомендует использовать Facelets в качестве технологии отображения в новых приложениях.
 
 #### JavaServer Pages Standard Tag Library <a id="_javaserver_pages_standard_tag_library"></a>
 
-The JavaServer Pages Standard Tag Library \(JSTL\) encapsulates core functionality common to many JSP applications. Instead of mixing tags from numerous vendors in your JSP applications, you use a single, standard set of tags. This standardization allows you to deploy your applications on any JSP container that supports JSTL and makes it more likely that the implementation of the tags is optimized.
+Стандартная библиотека тегов JavaServer Pages \(JSTL\) инкапсулирует основные функции, общие для многих приложений JSP. Вместо смешивания тегов от многочисленных поставщиков в приложениях JSP используется один стандартный набор тегов. Эта стандартизация позволяет развертывать приложения на любом контейнере JSP, поддерживающем JSTL, и повышает вероятность оптимизации реализации тегов.
 
-JSTL has iterator and conditional tags for handling flow control, tags for manipulating XML documents, internationalization tags, tags for accessing databases using SQL, and tags for commonly used functions.
+JSTL имеет итератор и условные теги для обработки управления потоком, теги для управления XML-документами, теги интернационализации, теги для доступа к базам данных с использованием SQL и теги для часто используемых функций.
 
-The Java EE 8 platform requires JSTL 1.2.
+Платформа Java EE 8 требует JSTL 1.2.
 
 #### Java Persistence API <a id="_java_persistence_api"></a>
 
