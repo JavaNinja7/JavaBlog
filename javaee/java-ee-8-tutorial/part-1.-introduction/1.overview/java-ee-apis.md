@@ -81,37 +81,37 @@ JSTL имеет итератор и условные теги для обраб�
 
 #### Java Persistence API <a id="_java_persistence_api"></a>
 
-The Java Persistence API \(JPA\) is a Java standards–based solution for persistence. Persistence uses an object/relational mapping approach to bridge the gap between an object-oriented model and a relational database. The Java Persistence API can also be used in Java SE applications outside of the Java EE environment. Java Persistence consists of the following areas:
+Java Persistence API \(JPA\)–это решение на основе стандартов Java для персистентности. Персистентность использует подход объектно-реляционного сопоставления для преодоления разрыва между объектно-ориентированной моделью и реляционной базой данных. JPA также может использоваться в приложениях Java SE вне среды Java EE. Persistence состоит из следующих областей:
 
 * The Java Persistence API
-* The query language
-* Object/relational mapping metadata
+* язык запросов
+* Метаданные объектно-реляционного маппинга\(_mapping_\)
 
-The Java EE 8 platform requires Java Persistence API 2.2.
+Для Java EE 8 требуется Java Persistence API 2.2.
 
 #### Java Transaction API <a id="_java_transaction_api"></a>
 
-The Java Transaction API \(JTA\) provides a standard interface for demarcating transactions. The Java EE architecture provides a default auto commit to handle transaction commits and rollbacks. An auto commit means that any other applications that are viewing data will see the updated data after each database read or write operation. However, if your application performs two separate database access operations that depend on each other, you will want to use the JTA API to demarcate where the entire transaction, including both operations, begins, rolls back, and commits.
+API транзакций Java \(JTA\) предоставляет стандартный интерфейс для демаркации транзакций. Архитектура Java EE предоставляет автокоммиты по умолчанию для обработки тразакционных коммитов и отката транзакций. Автокоммит означает, что любые другие приложения, просматривающие данные, будут видеть обновленные данные после каждой операции чтения или записи базы данных. Однако если приложение выполняет две отдельные операции доступа к базе данных, которые зависят друг от друга, необходимо использовать API JTA для разграничения, где начинается, откатывается и фиксируется\(_commits_\) вся транзакция, включая обе операции.
 
-The Java EE 8 platform requires Java Transaction API 1.2.
+Для Java EE 8 требуется Java Transaction API 1.2.
 
 #### Java API for RESTful Web Services <a id="_java_api_for_restful_web_services"></a>
 
-The Java API for RESTful Web Services \(JAX-RS\) defines APIs for the development of web services built according to the Representational State Transfer \(REST\) architectural style. A JAX-RS application is a web application that consists of classes packaged as a servlet in a WAR file along with required libraries.
+API Java для веб-служб RESTful \(JAX-RS\) определяет API для разработки веб-служб, построенных в соответствии с архитектурным стилем передачи состояния представления \(REST - Representational State Transfer\). Приложение JAX-RS-это веб-приложение, которое состоит из классов, упакованных в виде сервлета в файл WAR вместе с необходимыми библиотеками.
 
-In the Java EE 8 platform, new RESTful web services features include the following:
+В платформе Java EE 8,  следующие новые особенности RESTful web-сервисов:
 
 * Reactive Client API
 
   When the results of an invocation on a target resource are received, enhancements to the completion stage APIs in Java SE allow the sequence of those results to be specified, prioritized, combined, or concatenated, and how exceptions can be handled.
 
-* Enhancements in support for server-sent events
+* Улучшение  в поддержке  server-sent событий
 
-  Clients may subscribe to server-issued event notifications using a long-running connection. Support for a new media type, text/event-stream, has been added.
+  Клиенты могут подписаться на уведомления о событиях, выданные сервером, используя длительное соединение. Добавлена поддержка нового типа media-text / event-stream.
 
-* Support for JSON-B objects, and improved integration with CDI, Servlet, and Bean Validation technologies
+* Поддержка [JSON-B](https://toster.ru/q/315910) обьектов, и улучшенная интеграция с технологиями CDI, Servlet, and Bean Validation 
 
-The Java EE 8 platform requires JAX-RS 2.1.
+Платформа Java EE 8  требует  JAX-RS 2.1.
 
 #### Managed Beans <a id="_managed_beans"></a>
 
