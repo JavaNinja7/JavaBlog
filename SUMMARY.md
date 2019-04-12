@@ -8,6 +8,7 @@
 * [Days](blog/days/README.md)
   * [Day 1](blog/days/day-1.md)
   * [Day 2](blog/days/day-2.md)
+  * [Day 3](blog/days/day-3.md)
 * [Notes](blog/notes/README.md)
   * [Development without experience](blog/notes/development-without-experience.md)
 
