@@ -38,7 +38,7 @@ public class HelloServlet extends HttpServlet {
 javac -cp "/opt/tomcat9/lib/servlet-api.jar" HelloServlet.java
 ```
 
-Подробнее о classpath тут. О servlet-api здесь.
+Подробнее о classpath тут. Файл servlet-api.jar содержит реализацию java ee спецификаций сервлетов.   
 
 Создал следующую иерархию папок в CATALINA\_HOME \(_Catalina - Старое название Tomcat_\)
 

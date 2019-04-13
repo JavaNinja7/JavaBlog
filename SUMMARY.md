@@ -61,10 +61,10 @@
       * [Tomcat](other/instruments/java-containers/web-containers/tomcat/README.md)
         * [Setup in Ubuntu](other/instruments/java-containers/web-containers/tomcat/setup-in-ubuntu.md)
         * [web.xml](other/instruments/java-containers/web-containers/tomcat/web.xml.md)
-        * [servlet-api.jar](other/instruments/java-containers/web-containers/tomcat/servlet-api.jar.md)
     * [Java EE Containers](other/instruments/java-containers/java-ee-containers.md)
 * [Linux](other/linux/README.md)
   * [Notes](other/linux/notes/README.md)
     * [Services in Ubuntu](other/linux/notes/services-in-ubuntu.md)
     * [Creating a shortcut for app](other/linux/notes/creating-a-shortcut-for-app.md)
+  * [Problems and decisions](other/linux/problems-and-decisions.md)
 
