@@ -48,9 +48,10 @@
     * [Relationships between objects](java-core/topics/oop/relationships-between-objects.md)
   * [Interfaces](java-core/topics/interfaces/README.md)
     * [Difference between interfaces and abstract classes](java-core/topics/interfaces/difference-between-interfaces-and-abstract-classes.md)
-  * [Notes](java-core/topics/notes/README.md)
-    * [Exceptions meaning](java-core/topics/notes/exceptions-meaning.md)
-    * [Classpath](java-core/topics/notes/classpath.md)
+* [Notes](java-core/notes/README.md)
+  * [Exceptions meaning](java-core/notes/exceptions-meaning.md)
+  * [Classpath](java-core/notes/classpath.md)
+* [Untitled](java-core/untitled.md)
 
 ## Other
 
