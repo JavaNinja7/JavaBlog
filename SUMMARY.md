@@ -36,7 +36,6 @@
 * [Notes](javaee/notes/README.md)
   * [Servlets](javaee/notes/servlets/README.md)
     * [Annotation @WebServlet](javaee/notes/servlets/annotation-webservlet.md)
-  * [web.xml](javaee/notes/web.xml.md)
 
 ## Java Core
 
@@ -55,9 +54,13 @@
 ## Other
 
 * [Instruments](other/instruments/README.md)
-  * [Tomcat](other/instruments/tomcat/README.md)
-    * [Setup in Ubuntu](other/instruments/tomcat/setup-in-ubuntu.md)
-    * [servlet-api.jar](other/instruments/tomcat/servlet-api.jar.md)
+  * [Java Containers](other/instruments/java-containers/README.md)
+    * [Web Containers](other/instruments/java-containers/web-containers/README.md)
+      * [Tomcat](other/instruments/java-containers/web-containers/tomcat/README.md)
+        * [Setup in Ubuntu](other/instruments/java-containers/web-containers/tomcat/setup-in-ubuntu.md)
+        * [web.xml](other/instruments/java-containers/web-containers/tomcat/web.xml.md)
+        * [servlet-api.jar](other/instruments/java-containers/web-containers/tomcat/servlet-api.jar.md)
+    * [Java EE Containers](other/instruments/java-containers/java-ee-containers.md)
 * [Linux](other/linux/README.md)
   * [Notes](other/linux/notes/README.md)
     * [Services in Ubuntu](other/linux/notes/services-in-ubuntu.md)
