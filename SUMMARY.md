@@ -35,7 +35,8 @@
       * [Java EE APIs](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-apis.md)
 * [Notes](javaee/notes/README.md)
   * [Servlets](javaee/notes/servlets/README.md)
-    * [Annotation @WebServlet](javaee/notes/servlets/annotation-webservlet.md)
+    * [Annotations](javaee/notes/servlets/annotations/README.md)
+      * [@WebServlet](javaee/notes/servlets/annotations/annotation-webservlet.md)
 
 ## Java Core
 

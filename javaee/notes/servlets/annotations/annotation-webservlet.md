@@ -2,7 +2,7 @@
 description: Все про аннотацию WebServlet
 ---
 
-# Annotation @WebServlet
+# @WebServlet
 
 Оригинал статьи - [тут](https://www.codejava.net/java-ee/servlet/webservlet-annotation-examples).
 
