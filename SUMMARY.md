@@ -51,7 +51,6 @@
 * [Notes](java-core/notes/README.md)
   * [Exceptions meaning](java-core/notes/exceptions-meaning.md)
   * [Classpath](java-core/notes/classpath.md)
-* [Untitled](java-core/untitled.md)
 
 ## Other
 
