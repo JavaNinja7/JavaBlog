@@ -33,11 +33,16 @@
       * [Web Services Support](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/web-services-support.md)
       * [Java EE Application Assembly and Deployment](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-application-assembly-and-deployment.md)
       * [Java EE APIs](javaee/java-ee-8-tutorial/part-1.-introduction/1.overview/java-ee-apis.md)
+* [Notes](javaee/notes/README.md)
+  * [Servlets](javaee/notes/servlets/README.md)
+    * [Annotation @WebServlet](javaee/notes/servlets/annotation-webservlet.md)
+  * [web.xml](javaee/notes/web.xml.md)
 
 ## Java Core
 
 * [Notes](java-core/notes/README.md)
   * [Exceptions meaning](java-core/notes/exceptions-meaning.md)
+  * [Classpath](java-core/notes/classpath.md)
 * [Topics](java-core/topics/README.md)
   * [OOP](java-core/topics/oop/README.md)
     * [Basics](java-core/topics/oop/basics.md)
@@ -52,6 +57,7 @@
 * [Instruments](other/instruments/README.md)
   * [Tomcat](other/instruments/tomcat/README.md)
     * [Setup in Ubuntu](other/instruments/tomcat/setup-in-ubuntu.md)
+    * [servlet-api.jar](other/instruments/tomcat/servlet-api.jar.md)
 * [Linux](other/linux/README.md)
   * [Notes](other/linux/notes/README.md)
     * [Services in Ubuntu](other/linux/notes/services-in-ubuntu.md)
