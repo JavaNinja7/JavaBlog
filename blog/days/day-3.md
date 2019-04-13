@@ -8,5 +8,5 @@ description: День 3
 
 | Project\(3h\) | English\(30min\) | JavaRush\(2h\) | Theme\(2h\) | Blog\(1h\) |
 | :--- | :--- | :--- | :--- | :--- |
-| Not done | Not done | Not done | Not done | Not done  |
+| Not done | Done | Done | Not done | Not done  |
 
